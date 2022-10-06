@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 Sou professora Sandra
-Trabalho com Língua Portugues
-Trbalho no Colégio Enira
+Trabalho com Língua Português
+Trabalho no Colégio Enira
 Smecelato/Smecelato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
